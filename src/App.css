@@ -45,10 +45,13 @@ button {
   width: 25%;
   border-radius:15px;
   outline:none;
+  transition:.2s;
+  letter-spacing: 1rem;
   box-shadow: 2px 2px 2px #888888;
 }
 
 
 button:active {
+  transform:scale(.99);
   box-shadow:none;
 }
