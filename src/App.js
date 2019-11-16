@@ -15,7 +15,7 @@ function App() {
         description="I'm an example of destructuring props" 
         count={count}
       />
-      <button onClick={plusOne}>Add one</button>
+      <button onClick={plusOne}>ADDBOYS</button>
     </div>
   );
 }
